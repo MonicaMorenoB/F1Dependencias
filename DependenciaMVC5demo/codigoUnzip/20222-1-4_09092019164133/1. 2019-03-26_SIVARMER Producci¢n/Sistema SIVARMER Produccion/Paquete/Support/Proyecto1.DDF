@@ -1,0 +1,55 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Sistema VaR Mercado.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Sistema VaR Mercado.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"VB6ES.DLL"
+"MSSTDFMT.DLL"
+"STDFTES.DLL"
+"msado25.tlb"
+"MSDBRPTR.DLL"
+"DBRPRES.DLL"
+"MSBIND.DLL"
+"oradc.ocx"
+"scrrun.dll"
+"msvcrt.dll"
+"SCRRNES.DLL"
+"msjro.dll"
+"ACEDAO.DLL"
+"shell32.dll"
+"MSFLXGRD.OCX"
+"FLXGDES.DLL"
+"TABCTL32.OCX"
+"TABCTES.DLL"
+"COMCTL32.OCX"
+"CMCTLES.DLL"
+"MSINET.OCX"
+"INETES.DLL"
+"COMDLG32.OCX"
+"CMDLGES.DLL"
+"MSCOMCT2.OCX"
+"MSCC2ES.DLL"
+"Richtx32.ocx"
+"RICHED32.DLL"
+"RCHTXES.DLL"
+"MSCHRT20.OCX"
+"MSCH2ES.DLL"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"

@@ -1,0 +1,4 @@
+Línea 140: la clase TabDlg.SSTab del control SSTab1 no era una clase de control cargada.
+Línea 1394: la clase ComctlLib.StatusBar del control StatusBar1 no era una clase de control cargada.
+Línea 1478: la clase MSComDlg.CommonDialog del control CommonDialog1 no era una clase de control cargada.
+Línea 1485: la clase MSComCtl2.MonthView del control MonthView1 no era una clase de control cargada.

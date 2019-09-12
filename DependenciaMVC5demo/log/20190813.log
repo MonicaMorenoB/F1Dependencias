@@ -1,0 +1,238 @@
+20190813 09:51:33 Acceso correcto usuario usuario
+20190813 09:51:33 Obtención correcta areas usuario:1
+20190813 09:51:33 Avance correcto proceso 0
+20190813 09:51:49 Obtención correcta areas usuario:1
+20190813 09:51:49 Consulta correcta aplicacion 0
+20190813 10:53:15 Acceso correcto usuario usuario
+20190813 10:53:15 Obtención correcta areas usuario:1
+20190813 10:53:15 Avance correcto proceso 0
+20190813 10:53:20 Obtención correcta areas usuario:1
+20190813 10:53:20 Consulta correcta aplicacion 0
+20190813 10:54:50 Obtención correcta areas usuario:1
+20190813 10:54:50 Consulta correcta aplicacion 0
+20190813 10:57:03 Acceso correcto usuario usuario
+20190813 10:57:03 Obtención correcta areas usuario:1
+20190813 10:57:03 Avance correcto proceso 0
+20190813 10:57:12 Obtención correcta areas usuario:1
+20190813 10:57:12 Consulta correcta aplicacion 0
+20190813 11:09:48 Acceso correcto usuario usuario
+20190813 11:09:48 Obtención correcta areas usuario:1
+20190813 11:09:48 Avance correcto proceso 0
+20190813 11:09:52 Obtención correcta areas usuario:1
+20190813 11:09:52 Consulta correcta aplicacion 0
+20190813 11:38:25 Acceso correcto usuario usuario
+20190813 11:38:25 Obtención correcta areas usuario:1
+20190813 11:38:25 Avance correcto proceso 0
+20190813 11:38:28 Obtención correcta areas usuario:1
+20190813 11:38:28 Consulta correcta aplicacion 0
+20190813 11:38:34 Obtención correcta areas usuario:1
+20190813 11:38:34 Consulta correcta aplicacion 0
+20190813 11:48:53 Acceso correcto usuario usuario
+20190813 11:48:53 Obtención correcta areas usuario:1
+20190813 11:48:53 Avance correcto proceso 0
+20190813 11:48:56 Obtención correcta areas usuario:1
+20190813 11:48:56 Consulta correcta aplicacion 0
+20190813 13:13:21 Acceso correcto usuario usuario
+20190813 13:13:21 Obtención correcta areas usuario:1
+20190813 13:13:21 Avance correcto proceso 0
+20190813 13:13:25 Obtención correcta areas usuario:1
+20190813 13:13:25 Consulta correcta aplicacion 0
+20190813 13:17:51 Acceso correcto usuario usuario
+20190813 13:17:51 Obtención correcta areas usuario:1
+20190813 13:17:52 Avance correcto proceso 0
+20190813 13:17:55 Obtención correcta areas usuario:1
+20190813 13:17:55 Consulta correcta aplicacion 0
+20190813 13:21:17 Acceso correcto usuario usuario
+20190813 13:21:17 Obtención correcta areas usuario:1
+20190813 13:21:17 Avance correcto proceso 0
+20190813 13:21:20 Obtención correcta areas usuario:1
+20190813 13:21:21 Consulta correcta aplicacion 0
+20190813 13:24:40 Acceso correcto usuario usuario
+20190813 13:24:40 Obtención correcta areas usuario:1
+20190813 13:24:40 Avance correcto proceso 0
+20190813 13:24:46 Obtención correcta areas usuario:1
+20190813 13:24:46 Consulta correcta aplicacion 0
+20190813 13:54:35 Acceso correcto usuario usuario
+20190813 13:54:35 Obtención correcta areas usuario:1
+20190813 13:54:35 Avance correcto proceso 0
+20190813 13:54:38 Obtención correcta areas usuario:1
+20190813 13:54:38 Consulta correcta aplicacion 0
+20190813 14:10:08 Acceso correcto usuario usuario
+20190813 14:10:08 Obtención correcta areas usuario:1
+20190813 14:10:08 Avance correcto proceso 0
+20190813 14:10:14 Obtención correcta areas usuario:1
+20190813 14:10:36 Obten usuarios correcto usuario 1
+20190813 14:10:36 Obtención correcta areas usuario:1
+20190813 14:10:36 Obten perfiles correcto usuario 1
+20190813 14:10:36 Obtención correcta estatus usuario:1
+20190813 14:10:43 Obten usuarios correcto usuario 1
+20190813 14:10:43 Obtención correcta areas usuario:1
+20190813 14:10:43 Obten perfiles correcto usuario 1
+20190813 14:10:43 Obtención correcta estatus usuario:1
+20190813 14:10:55 Obten usuarios correcto usuario 1
+20190813 14:10:55 Obtención correcta areas usuario:1
+20190813 14:10:55 Obten perfiles correcto usuario 1
+20190813 14:10:55 Obtención correcta estatus usuario:1
+20190813 14:11:12 Obtención correcta areas usuario:1
+20190813 14:12:51 Obtención correcta aplicaciones usuario:1 area 1
+20190813 14:12:53 Obtención correcta objetosdb usuario:1 app 2
+20190813 14:12:53 Obtención incorrecta aplicaciones usuario:1 app 2
+20190813 14:12:54 Obtención correcta ObtenIndicaores usuario:1 app 2
+20190813 14:13:28 Obtención correcta objetosdb usuario:1 app 2
+20190813 14:13:28 Obtención correcta ObtenIndicaores usuario:1 app 2
+20190813 14:13:29 Obtención incorrecta aplicaciones usuario:1 app 2
+20190813 14:13:37 Obtención correcta objetosdb usuario:1 app 19
+20190813 14:13:38 Obtención incorrecta aplicaciones usuario:1 app 19
+20190813 14:13:38 Obtención correcta ObtenIndicaores usuario:1 app 19
+20190813 14:13:40 Obtención incorrecta ObtenTransversalidad usuario:1 app 19
+20190813 14:13:40 Obtención incorrecta ObtenTransversalidad usuario:1 app 19
+20190813 14:13:42 Obtención incorrecta ObtenTransversalidad usuario:1 app 19
+20190813 14:13:43 Obtención incorrecta ObtenTransversalidad usuario:1 app 19
+20190813 14:13:54 Obtención correcta objetosdb usuario:1 app 23
+20190813 14:13:55 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 14:13:56 Obtención correcta objetosdb usuario:1 app 23
+20190813 14:14:00 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:00 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:01 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:01 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:01 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:02 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:04 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:04 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:07 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:07 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:10 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:11 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:12 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:12 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:14 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 14:14:14 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:15:37 Acceso correcto usuario usuario
+20190813 16:15:37 Obtención correcta areas usuario:1
+20190813 16:15:38 Avance correcto proceso 0
+20190813 16:15:43 Obtención correcta areas usuario:1
+20190813 16:15:47 Obtención correcta aplicaciones usuario:1 area 1
+20190813 16:15:51 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:15:52 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:15:53 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:16:13 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:16:13 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:16:14 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:16:39 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:16:40 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:16:40 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:16:43 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:16:43 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:16:45 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:16:46 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:18:46 Obtención correcta objetosdb usuario:1 app 25
+20190813 16:18:47 Obtención correcta ObtenIndicaores usuario:1 app 25
+20190813 16:18:47 Obtención incorrecta aplicaciones usuario:1 app 25
+20190813 16:18:59 Obtención incorrecta ObtenTransversalidad usuario:1 app 25
+20190813 16:19:00 Obtención incorrecta ObtenTransversalidad usuario:1 app 25
+20190813 16:19:01 Obtención correcta objetosdb usuario:1 app 25
+20190813 16:19:02 Obtención incorrecta aplicaciones usuario:1 app 25
+20190813 16:19:02 Obtención correcta ObtenIndicaores usuario:1 app 25
+20190813 16:19:02 Obtención correcta objetosdb usuario:1 app 25
+20190813 16:19:03 Obtención correcta ObtenIndicaores usuario:1 app 25
+20190813 16:19:03 Obtención incorrecta aplicaciones usuario:1 app 25
+20190813 16:19:31 Obtención incorrecta ObtenTransversalidad usuario:1 app 25
+20190813 16:19:32 Obtención incorrecta ObtenTransversalidad usuario:1 app 25
+20190813 16:24:59 Obtención correcta ObtenIndicaores usuario:1 app 25
+20190813 16:24:59 Obtención incorrecta aplicaciones usuario:1 app 25
+20190813 16:25:00 Obtención correcta objetosdb usuario:1 app 25
+20190813 16:25:01 Obtención correcta objetosdb usuario:1 app 17
+20190813 16:25:02 Obtención incorrecta aplicaciones usuario:1 app 17
+20190813 16:25:02 Obtención correcta ObtenIndicaores usuario:1 app 17
+20190813 16:29:25 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:26 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:29:27 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:30 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:30 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:50 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:50 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:51 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:29:52 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:29:53 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:30:14 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:30:15 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:30:15 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:30:16 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:30:17 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:00 Obtención correcta areas usuario:1
+20190813 16:31:00 Consulta correcta aplicacion 0
+20190813 16:31:08 Obtención correcta areas usuario:1
+20190813 16:31:18 Obtención correcta aplicaciones usuario:1 area 1
+20190813 16:31:23 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:23 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:23 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:31:24 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:25 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:25 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:31:57 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:57 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:31:58 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:31:59 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:00 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:00 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:32:00 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:01 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:02 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:32:11 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:11 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:24 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:25 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:32:25 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:25 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:26 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:26 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:27 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:27 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:27 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:32:27 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:28 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:29 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:29 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:29 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:29 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:29 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:29 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:30 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:30 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:30 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:33 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:33 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:36 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:36 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:38 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:39 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:40 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:40 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:42 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:42 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:45 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:45 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:48 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:48 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190813 16:32:49 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:53 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:53 Obtención correcta objetosdb usuario:1 app 23
+20190813 16:32:57 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:58 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:32:59 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:00 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:00 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:01 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:01 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:01 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:02 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:02 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190813 16:33:40 Obtención correcta objetosdb usuario:1 app 8
+20190813 16:33:41 Obtención incorrecta aplicaciones usuario:1 app 8
+20190813 16:33:41 Obtención correcta ObtenIndicaores usuario:1 app 8
+20190813 16:34:01 Acceso correcto usuario usuario
+20190813 16:34:01 Obtención correcta areas usuario:1
+20190813 16:34:01 Avance correcto proceso 0
+20190813 16:36:00 Obtención correcta areas usuario:1
+20190813 16:36:00 Consulta correcta aplicacion 0
+20190813 16:36:02 Obtención correcta areas usuario:1

@@ -1,0 +1,123 @@
+20190806 11:16:48 BaseDatos.PrepareSp Sp_ValidaUsuario A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+20190806 11:16:48 Usuario.ValidaUsuario Object reference not set to an instance of an object.
+20190806 11:35:31 BaseDatos.PrepareSp Sp_ValidaUsuario A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+20190806 11:35:31 Usuario.ValidaUsuario Object reference not set to an instance of an object.
+20190806 11:38:44 BaseDatos.PrepareSp Sp_ValidaUsuario A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+20190806 11:38:44 Usuario.ValidaUsuario Object reference not set to an instance of an object.
+20190806 11:40:34 BaseDatos.PrepareSp Sp_ValidaUsuario A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+20190806 11:40:34 Usuario.ValidaUsuario Object reference not set to an instance of an object.
+20190806 11:42:12 BaseDatos.PrepareSp Sp_ValidaUsuario A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+20190806 11:42:12 Usuario.ValidaUsuario Object reference not set to an instance of an object.
+20190806 11:43:52 Acceso correcto usuario usuario
+20190806 11:43:52 Obtención correcta areas usuario:1
+20190806 11:43:52 Avance correcto proceso 0
+20190806 11:52:16 Obtención correcta aplicaciones usuario:1 area 1
+20190806 11:52:26 Obtención correcta aplicaciones usuario:1 area 0
+20190806 11:53:26 Obtención correcta aplicaciones usuario:1 area 1
+20190806 12:20:10 Acceso correcto usuario usuario
+20190806 12:20:10 Obtención correcta areas usuario:1
+20190806 12:20:10 Avance correcto proceso 0
+20190806 12:20:15 Obtención correcta aplicaciones usuario:1 area 1
+20190806 12:20:27 actualizaStatus.UploadComplete Cannot apply indexing with [] to an expression of type 'System.Dynamic.DynamicObject'
+20190806 12:20:27 Obtención correcta areas usuario:1
+20190806 12:20:27 Avance correcto proceso 0
+20190806 12:20:36 Obtención correcta areas usuario:1
+20190806 12:20:36 Avance correcto proceso 0
+20190806 12:20:46 Obtención correcta areas usuario:1
+20190806 12:20:46 Avance correcto proceso 0
+20190806 12:20:56 Obtención correcta areas usuario:1
+20190806 12:20:56 Avance correcto proceso 0
+20190806 12:21:06 Obtención correcta areas usuario:1
+20190806 12:21:06 Avance correcto proceso 0
+20190806 12:21:16 Obtención correcta areas usuario:1
+20190806 12:21:16 Avance correcto proceso 0
+20190806 12:21:26 Obtención correcta areas usuario:1
+20190806 12:21:26 Avance correcto proceso 0
+20190806 12:21:31 Obtención correcta areas usuario:1
+20190806 12:21:31 Avance correcto proceso 0
+20190806 12:22:16 Obtención correcta areas usuario:1
+20190806 12:22:16 Avance correcto proceso 0
+20190806 12:22:19 Obtención correcta areas usuario:1
+20190806 12:22:19 Avance correcto proceso 0
+20190806 12:22:20 Obtención correcta areas usuario:1
+20190806 12:22:20 Avance correcto proceso 0
+20190806 12:22:27 Obtención correcta areas usuario:1
+20190806 12:22:27 Avance correcto proceso 0
+20190806 12:22:27 Obtención correcta areas usuario:1
+20190806 12:22:27 Avance correcto proceso 0
+20190806 12:23:01 Obtención correcta areas usuario:1
+20190806 12:23:01 Avance correcto proceso 0
+20190806 12:23:38 Obtención correcta areas usuario:1
+20190806 12:23:38 Avance correcto proceso 0
+20190806 12:23:39 Obtención correcta areas usuario:1
+20190806 12:23:39 Avance correcto proceso 0
+20190806 12:24:18 Obtención correcta areas usuario:1
+20190806 12:24:18 Avance correcto proceso 0
+20190806 12:27:56 Obtención correcta areas usuario:1
+20190806 12:27:56 Avance correcto proceso 0
+20190806 12:30:08 Acceso correcto usuario usuario
+20190806 12:30:08 Obtención correcta areas usuario:1
+20190806 12:30:08 Avance correcto proceso 0
+20190806 12:30:40 Obtención correcta areas usuario:1
+20190806 12:30:40 Avance correcto proceso 0
+20190806 12:30:46 Obtención correcta areas usuario:1
+20190806 12:31:07 Obtención correcta aplicaciones usuario:1 area 1
+20190806 12:31:16 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:17 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190806 12:31:18 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:24 Obtención correcta ObtenTransversalidad usuario:1 app 23
+20190806 12:31:25 Obtención incorrecta ObtenTransversalidad usuario:1 app 23
+20190806 12:31:31 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:32 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:32 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190806 12:31:34 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:35 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:35 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190806 12:31:36 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:36 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190806 12:31:37 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:46 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:31:46 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:32:16 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:32:16 Obtención correcta ObtenIndicaores usuario:1 app 23
+20190806 12:32:17 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:32:22 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:32:23 Obtención correcta objetosdb usuario:1 app 23
+20190806 12:32:54 Obtención correcta areas usuario:1
+20190806 12:32:54 Consulta correcta aplicacion 0
+20190806 12:33:16 Obtención correcta aplicaciones usuario:1 area 1
+20190806 12:33:21 Obtención correcta ObtenFiltros Tipo:BD BaseDatos Aplicacion 23
+20190806 12:33:24 Obtención correcta ObtenFiltros Tipo:BD ObjetosBD Aplicacion 23
+20190806 12:33:27 Obtención correcta ObtenFiltros Tipo:BD Archivo Aplicacion 23
+20190806 12:33:30 Obtención correcta areas usuario:1
+20190806 12:33:30 Consulta correcta aplicacion 0
+20190806 12:33:30 Consulta correcta apliación: BD 23
+20190806 12:34:04 Obtención correcta areas usuario:1
+20190806 12:34:21 Obtención correcta aplicaciones usuario:1 area 1
+20190806 12:34:37 Obtención correcta areas usuario:1
+20190806 12:34:51 Obten usuarios correcto usuario 1
+20190806 12:34:51 Obtención correcta areas usuario:1
+20190806 12:34:51 Obten perfiles correcto usuario 1
+20190806 12:34:51 Obtención correcta estatus usuario:1
+20190806 12:34:58 Obten usuarios correcto usuario 1
+20190806 12:34:58 Obtención correcta areas usuario:1
+20190806 12:34:58 Obten perfiles correcto usuario 1
+20190806 12:34:58 Obtención correcta estatus usuario:1
+20190806 12:35:01 Obten usuarios correcto usuario 1
+20190806 12:35:01 Obtención correcta areas usuario:1
+20190806 12:35:01 Obten perfiles correcto usuario 1
+20190806 12:35:01 Obtención correcta estatus usuario:1
+20190806 12:35:06 Obten Aplicaciones correcto usuario 1
+20190806 12:35:06 Obtención correcta areas usuario:1
+20190806 12:35:06 Obten Lenguajes correcto usuario 1
+20190806 12:35:06 Obtención correcta estatus usuario:1
+20190806 12:35:41 Obten perfiles correcto usuario 1
+20190806 12:35:41 Obtención correcta estatus usuario:1
+20190806 12:44:45 Obtención correcta areas usuario:1
+20190806 12:45:03 Obtención correcta areas usuario:1
+20190806 12:45:03 Consulta correcta aplicacion 0
+20190806 12:45:58 Obtención correcta areas usuario:1
+20190806 12:45:58 Consulta correcta aplicacion 0
+20190806 12:46:54 Obtención correcta areas usuario:1
+20190806 12:46:54 Avance correcto proceso 0
+20190806 12:48:57 Obtención correcta areas usuario:1

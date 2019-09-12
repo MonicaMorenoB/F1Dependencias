@@ -1,0 +1,4 @@
+Línea 18: la clase RichTextLib.RichTextBox del control RichTextBox2 no era una clase de control cargada.
+Línea 30: la clase RichTextLib.RichTextBox del control RichTextBox1 no era una clase de control cargada.
+Línea 96: la clase MSComDlg.CommonDialog del control CommonDialog1 no era una clase de control cargada.
+Línea 103: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid1 no era una clase de control cargada.

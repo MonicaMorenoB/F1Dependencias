@@ -1,0 +1,6 @@
+Línea 21: la clase TabDlg.SSTab del control SSTab1 no era una clase de control cargada.
+Línea 136: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid1 no era una clase de control cargada.
+Línea 194: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid3 no era una clase de control cargada.
+Línea 371: la clase MSFlexGridLib.MSFlexGrid del control MSFlexGrid2 no era una clase de control cargada.
+Línea 472: la clase ComctlLib.StatusBar del control StatusBar1 no era una clase de control cargada.
+Línea 505: la clase ComctlLib.ImageList del control ImageList1 no era una clase de control cargada.
